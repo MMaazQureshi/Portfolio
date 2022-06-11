@@ -23,7 +23,7 @@ const greeting = {
   username: "Muhammad Maaz Qureshi",
   title: "Hi all, I'm Maaz",
   subTitle: emoji(
-    "An tech savvy full stack Software Developer 🤓 having developed around 3yrs of experience. I have workied on 10+ large scale web and mobile applications with C#/ JavaScript / Reactjs / Dotnet Core and other technologies."
+    "A tech savvy full stack Software Developer 🤓 having developed around 3yrs of experience. I have workied on 10+ large scale web and mobile applications with C#/ JavaScript / Reactjs / Dotnet Core and other technologies."
   ),
   resumeLink: "./assets/MMaazQureshi-Dotnet.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
