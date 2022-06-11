@@ -25,7 +25,7 @@ require("dotenv").config();
 //   var data = JSON.stringify({
 //     query: `
 // {
-//   user(login:"${GITHUB_USERNAME}") { 
+//   user(login:"${GITHUB_USERNAME}") {
 //     name
 //     bio
 //     isHireable

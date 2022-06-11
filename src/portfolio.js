@@ -25,8 +25,7 @@ const greeting = {
   subTitle: emoji(
     "A experienced Full Stack Software Developer 🤓 having developed 10+ Web and mobile applications with C#/ JavaScript / Reactjs / Dotnet Core and many other technologies."
   ),
-  resumeLink:
-    "./assets/MMaazQureshi-Dotnet.pdf", // Set to empty to hide the button
+  resumeLink: "./assets/MMaazQureshi-Dotnet.pdf", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -46,7 +45,8 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "A tech-savvy full stack always willing to roll up his sleeves and learn new things to get the problem solved",
+  subTitle:
+    "A tech-savvy full stack always willing to roll up his sleeves and learn new things to get the problem solved",
   skills: [
     emoji(
       "⚡ Writing clean and scalable code to automate your business flows to make your life easier"
@@ -89,7 +89,7 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
-    
+
     {
       skillName: "npm",
       fontAwesomeClassname: "fab fa-npm"
@@ -130,7 +130,6 @@ const educationInfo = {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
     }
-    
   ]
 };
 
@@ -296,7 +295,7 @@ const blogSection = {
   subtitle:
     "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
   displayMediumBlogs: "false", // Set true to display fetched medium blogs instead of hardcoded ones
-  display:false,
+  display: false,
   blogs: [
     {
       url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
